@@ -1,4 +1,4 @@
-# BUITEMS Student Portal — Next.js
+# GPGC Student Portal — Next.js
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
