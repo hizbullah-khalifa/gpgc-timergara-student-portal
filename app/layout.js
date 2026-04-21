@@ -11,7 +11,7 @@ export const metadata = {
   },
   title: {
     default:
-      "GPGC  Portal · Academic Tools, Student Portal & AI Assistant",
+      "GPGC Student Portal · Academic Tools, Student Portal & AI Assistant",
     template: "%s · GPGC Portal",
   },
   description:
