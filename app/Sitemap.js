@@ -4,7 +4,7 @@
 // https://gpgc-timergara-portal.vercel.app/sitemap.xml
 
 export default function sitemap() {
-  const baseUrl = "https://gpgc-timergara-portal.vercel.app";
+  const baseUrl = "https://gpgc-timergara-student-portal.vercel.app";
 
   return [
     // ── Main Pages ──────────────────────────────────────────
