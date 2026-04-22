@@ -130,8 +130,9 @@ export const metadata = {
   // Replace the placeholder once you verify your site.
   
 verification: {
-  google: "TxgSXLMu5zlf3ihJNr8psrStRSXph5Kt7q3DZV7O0_U",
+  google: "oXbNJt7m4oIvdSG1DzdywaG3uLunQfK0e6u-AxWof0w",
 },
+  
 
   // ── Structured data helpers ──────────────────────────────────
   category: "education",
