@@ -128,9 +128,10 @@ export const metadata = {
 
   // ── Google Search Console verification ──────────────────────
   // Replace the placeholder once you verify your site.
-  verification: {
-    google: "your-google-verification-code", // ← paste real token here
-  },
+  
+verification: {
+  google: "TxgSXLMu5zlf3ihJNr8psrStRSXph5Kt7q3DZV7O0_U",
+},
 
   // ── Structured data helpers ──────────────────────────────────
   category: "education",
