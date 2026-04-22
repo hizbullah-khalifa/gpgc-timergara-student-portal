@@ -146,7 +146,7 @@ export default function TimetablePage() {
       const offsetY = margin + (maxH - finalH) / 2;
 
       pdf.addImage(imgData, "JPEG", offsetX, offsetY, finalW, finalH);
-      pdf.save("BUITEMS_Timetable.pdf");
+     pdf.save("GPGC_Timetable.pdf");
     } catch (err) {
       console.error("PDF generation failed:", err);
       alert("Could not generate PDF. Please try again.");
