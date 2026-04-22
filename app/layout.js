@@ -20,11 +20,11 @@ export const metadata = {
   // Template appends " · GPGC Portal" to every page title.
   title: {
     default:
-      "GPGC Timergara Student Portal – GPA, AI Assistant & Tools",
+      "GPGC Timergara Students Portal – GPA, AI Assistant & Tools",
     template: "%s · GPGC Timergara Portal",
   },
   description:
-    "Official student portal of Government Post Graduate College (GPGC) Timergara, Dir Lower, KPK. Calculate GPA, CGPA & aggregate, view timetable, generate assignment covers, and chat with an AI study assistant. Built by Hizbullah Khalifa.",
+    "Official students portal of Government Post Graduate College (GPGC) Timergara, Dir Lower, KPK. Calculate GPA, CGPA & aggregate, view timetable, generate assignment covers, and chat with an AI study assistant. Built by Hizbullah Khalifa.",
 
   // ── Keywords (on-page signal + long-tail discovery) ─────────
   // Mix: college brand · tools · developer · location · language
