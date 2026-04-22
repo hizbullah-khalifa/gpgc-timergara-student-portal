@@ -24,7 +24,7 @@ const About_Cards = [
     id: "4",
     icon: "https://cdn-icons-png.flaticon.com/512/15838/15838894.png",
     title: "Aggregate Calculator",
-    desc: "Calculate admission aggregate using Matric + FSc + Entry Test formula.",
+    desc: "Calculate admission aggregate using Matric + FSc..",
   },
   {
     id: "5",
@@ -42,7 +42,7 @@ const About_Cards = [
     id: "7",
     icon: "https://cdn-icons-png.flaticon.com/512/2231/2231492.png",
     title: "Faculties & Departments",
-    desc: "Complete listing of all BUITEMS faculties, departments, and programs.",
+    desc: "Complete listing of all GPGC faculties, departments, and programs.",
   },
   {
     id: "8",
